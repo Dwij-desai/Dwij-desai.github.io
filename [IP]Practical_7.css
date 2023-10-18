@@ -1,0 +1,13 @@
+.background
+{
+    background-color: coral;
+}
+.fontcolor
+{
+    color: rgb(86, 40, 13);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.border
+{
+    border: 5px;
+}
